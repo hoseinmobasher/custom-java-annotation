@@ -2,7 +2,6 @@ package aspects.core;
 
 import aspects.JavaComponent;
 import aspects.annotation.*;
-import com.sun.xml.internal.rngom.parse.host.Base;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.InvocationTargetException;
